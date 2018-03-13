@@ -41,3 +41,7 @@ body {
   border-width: thin;
   padding:10px;
 }
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
